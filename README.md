@@ -1,6 +1,6 @@
-# AutoX
+# AlphaTracts
 
-## live Site link - https://auto-x-work-12.web.app/
+## live Site link - (https://alphatrack-daed8.web.app/)
 
 ### 1. The website name is `AutoX` which is based on bike store website.
 ### 2. In this website two types of user/ customer can access the website. which are without login user, logged in user and admin user.
