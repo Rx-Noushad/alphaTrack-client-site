@@ -2,7 +2,7 @@
 
 ## live Site link - (https://alphatrack-daed8.web.app/)
 
-### 1. The website name is `AutoX` which is based on bike store website.
+### 1. The website name is `AlphaTracts` which is based on bike store website.
 ### 2. In this website two types of user/ customer can access the website. which are without login user, logged in user and admin user.
 ### 3. Logged in user can be normal user/customer or admin user.
 ### 4. normal user can order any bike.
